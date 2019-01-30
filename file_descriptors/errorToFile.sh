@@ -3,3 +3,6 @@
 
 
 ls + > test.txt
+ls + 2>error.txt
+
+ls + 2>/dev/null
